@@ -14,5 +14,11 @@
         >
 
     </ListView>
-
+    <Button
+        android:layout_width="wrap_content"
+        android:id="@+id/add"
+        android:text="addFriend"
+        android:onClick="addFriends"
+        android:layout_height="wrap_content"/>
 </LinearLayout>
+
